@@ -1,6 +1,7 @@
 package com.longs7.spingbootapi.service;
 
 import com.longs7.spingbootapi.entity.Book;
+import org.springframework.stereotype.Service;
 
 import java.util.List;
 
